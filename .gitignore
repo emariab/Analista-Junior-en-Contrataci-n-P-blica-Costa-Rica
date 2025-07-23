@@ -1,0 +1,7 @@
+asistente-legal/
+├── app.py
+├── requirements.txt
+├── templates/
+│   └── index.html
+├── static/
+│   └── script.js
